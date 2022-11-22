@@ -128,7 +128,6 @@ namespace ProductPrices
                 for (int i = 0; i < adet; i++)
                 {
                     ürün[i] = new Mobilya();
-                    ürün[i] = new BeyazEşya();
                     Console.Write($"{i + 1}. Ürün adını giriniz: ");
                     ürün[i].Adı = Convert.ToString(Console.ReadLine());
                     Console.Write($"{i + 1}. Ürün kodunu giriniz: ");
@@ -177,7 +176,6 @@ namespace ProductPrices
                 for (int i = 0; i < adet; i++)
                 {
                     ürün[i] = new Elektronik();
-                    ürün[i] = new BeyazEşya();
                     Console.Write($"{i + 1}. Ürün adını giriniz: ");
                     ürün[i].Adı = Convert.ToString(Console.ReadLine());
                     Console.Write($"{i + 1}. Ürün kodunu giriniz: ");
