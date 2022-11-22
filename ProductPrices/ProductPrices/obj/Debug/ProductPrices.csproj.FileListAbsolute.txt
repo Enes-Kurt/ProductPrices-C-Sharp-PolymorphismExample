@@ -1,0 +1,8 @@
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\obj\Debug\ProductPrices.csproj.AssemblyReference.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\obj\Debug\ProductPrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\obj\Debug\ProductPrices.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\bin\Debug\ProductPrices.exe.config
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\bin\Debug\ProductPrices.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\bin\Debug\ProductPrices.pdb
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\obj\Debug\ProductPrices.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\ProductPrices\ProductPrices\obj\Debug\ProductPrices.pdb
