@@ -7,4 +7,4 @@
 - Tanımlanan bilgileri kaydeden program daha sonra bu ürünlerden görüntelenmek istenilen ürünün "Ürün kodunu" sizden ister.
 - Program girilen ürün koduna karşılık gelen ürünün bilgilerini ve ürünün "KDV'li fiyatı" ve "Saatlik enerji tüketim fiyatını" ekrana yazdırır.
 
-Not : Bu çalışma Polymorphism kavramını anlatmak amacıyla oluşturulmuştur. Base Class olan "Ürün" clasının içerisinde belirtilen 2 method KDV'li fiyatı ve Enerji tükteitm fiyatını hesaplar fakat bu hesaplar 3 farklı ürün türünün 2 si için farklı KDV'li fiyat hesaplarken 1 tanesi için "Ürün" clasında belirtilen KDV'li fiyatı hesaplar. Interface ve Abstract classlardan farklılıklarını gözlememek için oluşturulmuşur.
+Not : Bu çalışma Polymorphism kavramını anlatmak amacıyla oluşturulmuştur. Base Class olan "Ürün" clasının içerisinde belirtilen 2 method KDV'li fiyatı ve Enerji tükteitm fiyatını hesaplar fakat bu hesaplar 3 farklı ürün türünün 2 si için farklı KDV'li fiyat hesaplarken 1 tanesi için "Ürün" clasında belirtilen KDV'li fiyatı hesaplar."virtual" kullanımının Interface ve Abstract classlardan farklılıklarını gözlememek için oluşturulmuşur.
